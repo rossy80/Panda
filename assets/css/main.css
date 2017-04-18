@@ -1,0 +1,43 @@
+ul{
+  background-color: #FF0000;
+}
+
+li{
+  display: inline-block;
+  padding: 20px;
+  list-style: none;
+}
+
+body {
+  background-color: #660000;
+}
+
+a{
+  color: whitesmoke;
+  text-decoration: none;
+  padding: 10px;
+}
+
+a:hover{
+  color: #FFCC00;
+}
+
+div {
+  display: inline-block;
+  margin: 60px;
+}
+
+img{
+  width: 160px;
+  height: 160px;
+  border: solid black;
+}
+
+button {
+  width: 250px;
+  height: 40px;
+  color: white;
+  background-color: #CC3333;
+  margin-left: 80PX;
+
+}
